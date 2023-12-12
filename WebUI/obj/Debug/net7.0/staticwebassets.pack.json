@@ -1,0 +1,601 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\css\\theme-rtl.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-rtl.css"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\css\\theme-rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-rtl.css.map"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\css\\theme-rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-rtl.min.css"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\css\\theme-rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\css\\theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme.css"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\css\\theme.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\theme.css.map"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\css\\theme.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme.min.css"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\css\\theme.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\theme.min.css.map"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\apple-store.png",
+      "PackagePath": "staticwebassets\\assets\\img\\apple-store.png"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\category\\icon1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\icon1.png"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\category\\icon2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\icon2.png"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\category\\icon3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\icon3.png"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\category\\icon4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\icon4.png"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\category\\shape.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\shape.svg"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\cta\\cta-shape.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\cta\\cta-shape.svg"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\cta\\mail.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\cta\\mail.svg"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\cta\\send.png",
+      "PackagePath": "staticwebassets\\assets\\img\\cta\\send.png"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\cta\\shape-bg1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\cta\\shape-bg1.png"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\cta\\shape-bg2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\cta\\shape-bg2.png"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\dest\\dest1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\dest\\dest1.jpg"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\dest\\dest2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\dest\\dest2.jpg"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\dest\\dest3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\dest\\dest3.jpg"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\dest\\navigation.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\dest\\navigation.svg"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\dest\\shape.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\dest\\shape.svg"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\favicons\\android-chrome-192x192.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\android-chrome-192x192.png"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\favicons\\android-chrome-512x512.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\android-chrome-512x512.png"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\favicons\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\favicons\\browserconfig.xml",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\browserconfig.xml"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\favicons\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\favicon-16x16.png"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\favicons\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\favicons\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\favicon.ico"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\favicons\\manifest.json",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\manifest.json"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\favicons\\mstile-150x150.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\mstile-150x150.png"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\favicons\\site.webmanifest",
+      "PackagePath": "staticwebassets\\assets\\img\\favicons\\site.webmanifest"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\hero\\hero-bg.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\hero-bg.svg"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\hero\\hero-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\hero-img.png"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\hero\\play.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\play.svg"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\hero\\shape.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\shape.svg"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\icons\\down.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\down.svg"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\icons\\up.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\up.svg"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.svg"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\logo2.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logo2.svg"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\partner\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner\\1.png"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\partner\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner\\2.png"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\partner\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner\\3.png"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\partner\\4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner\\4.png"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\partner\\5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner\\5.png"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\play-store.png",
+      "PackagePath": "staticwebassets\\assets\\img\\play-store.png"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\steps\\bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\steps\\bg.png"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\steps\\booking-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\steps\\booking-img.jpg"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\steps\\building.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\steps\\building.svg"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\steps\\favorite-placeholder.png",
+      "PackagePath": "staticwebassets\\assets\\img\\steps\\favorite-placeholder.png"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\steps\\heart.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\steps\\heart.svg"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\steps\\leaf.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\steps\\leaf.svg"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\steps\\map.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\steps\\map.svg"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\steps\\selection.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\steps\\selection.svg"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\steps\\send.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\steps\\send.svg"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\steps\\taxi.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\steps\\taxi.svg"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\steps\\water-sport.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\steps\\water-sport.svg"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\testimonial\\author.png",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\author.png"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\testimonial\\author2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\author2.png"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\img\\testimonial\\author3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\author3.png"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\js\\bootstrap-navbar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap-navbar.js"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\js\\theme.js",
+      "PackagePath": "staticwebassets\\assets\\js\\theme.js"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\js\\theme.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\theme.js.map"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\js\\theme.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\theme.min.js"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\js\\theme.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\theme.min.js.map"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\video\\.gitkeep",
+      "PackagePath": "staticwebassets\\assets\\video\\.gitkeep"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\video\\beach.jpg",
+      "PackagePath": "staticwebassets\\assets\\video\\beach.jpg"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\video\\beach.mp4",
+      "PackagePath": "staticwebassets\\assets\\video\\beach.mp4"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\assets\\video\\beach.webm",
+      "PackagePath": "staticwebassets\\assets\\video\\beach.webm"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\gulp\\build.gulp.js",
+      "PackagePath": "staticwebassets\\gulp\\build.gulp.js"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\gulp\\clean.gulp.js",
+      "PackagePath": "staticwebassets\\gulp\\clean.gulp.js"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\gulp\\gulp.json",
+      "PackagePath": "staticwebassets\\gulp\\gulp.json"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\gulp\\pug.gulp.js",
+      "PackagePath": "staticwebassets\\gulp\\pug.gulp.js"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\gulp\\script.gulp.js",
+      "PackagePath": "staticwebassets\\gulp\\script.gulp.js"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\gulp\\style.gulp.js",
+      "PackagePath": "staticwebassets\\gulp\\style.gulp.js"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\gulp\\utils.js",
+      "PackagePath": "staticwebassets\\gulp\\utils.js"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\gulp\\vendor.gulp.js",
+      "PackagePath": "staticwebassets\\gulp\\vendor.gulp.js"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\gulp\\w3c.gulp.js",
+      "PackagePath": "staticwebassets\\gulp\\w3c.gulp.js"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\gulp\\watch.gulp.js",
+      "PackagePath": "staticwebassets\\gulp\\watch.gulp.js"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\js\\bootstrap-navbar.js",
+      "PackagePath": "staticwebassets\\src\\js\\bootstrap-navbar.js"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\js\\detector.js",
+      "PackagePath": "staticwebassets\\src\\js\\detector.js"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\js\\scroll-to-top.js",
+      "PackagePath": "staticwebassets\\src\\js\\scroll-to-top.js"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\js\\theme.js",
+      "PackagePath": "staticwebassets\\src\\js\\theme.js"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\js\\utils.js",
+      "PackagePath": "staticwebassets\\src\\js\\utils.js"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\pug\\index.pug",
+      "PackagePath": "staticwebassets\\src\\pug\\index.pug"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\pug\\layouts\\Layout.pug",
+      "PackagePath": "staticwebassets\\src\\pug\\layouts\\Layout.pug"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\pug\\layouts\\LayoutTheme.pug",
+      "PackagePath": "staticwebassets\\src\\pug\\layouts\\LayoutTheme.pug"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\pug\\mixins\\Variables.pug",
+      "PackagePath": "staticwebassets\\src\\pug\\mixins\\Variables.pug"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\pug\\mixins\\common\\DestinationCard.pug",
+      "PackagePath": "staticwebassets\\src\\pug\\mixins\\common\\DestinationCard.pug"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\pug\\mixins\\common\\Footer.pug",
+      "PackagePath": "staticwebassets\\src\\pug\\mixins\\common\\Footer.pug"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\pug\\mixins\\common\\ServiceCard.pug",
+      "PackagePath": "staticwebassets\\src\\pug\\mixins\\common\\ServiceCard.pug"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\pug\\mixins\\core\\Background.pug",
+      "PackagePath": "staticwebassets\\src\\pug\\mixins\\core\\Background.pug"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\pug\\mixins\\core\\Functions.pug",
+      "PackagePath": "staticwebassets\\src\\pug\\mixins\\core\\Functions.pug"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\pug\\mixins\\core\\Section.pug",
+      "PackagePath": "staticwebassets\\src\\pug\\mixins\\core\\Section.pug"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\pug\\mixins\\core\\ThemeStyle.pug",
+      "PackagePath": "staticwebassets\\src\\pug\\mixins\\core\\ThemeStyle.pug"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\pug\\mixins\\home\\landing\\Booking.pug",
+      "PackagePath": "staticwebassets\\src\\pug\\mixins\\home\\landing\\Booking.pug"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\pug\\mixins\\home\\landing\\Cta.pug",
+      "PackagePath": "staticwebassets\\src\\pug\\mixins\\home\\landing\\Cta.pug"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\pug\\mixins\\home\\landing\\Destination.pug",
+      "PackagePath": "staticwebassets\\src\\pug\\mixins\\home\\landing\\Destination.pug"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\pug\\mixins\\home\\landing\\HeroHeader.pug",
+      "PackagePath": "staticwebassets\\src\\pug\\mixins\\home\\landing\\HeroHeader.pug"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\pug\\mixins\\home\\landing\\Partner.pug",
+      "PackagePath": "staticwebassets\\src\\pug\\mixins\\home\\landing\\Partner.pug"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\pug\\mixins\\home\\landing\\Service.pug",
+      "PackagePath": "staticwebassets\\src\\pug\\mixins\\home\\landing\\Service.pug"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\pug\\mixins\\home\\landing\\Testimonial.pug",
+      "PackagePath": "staticwebassets\\src\\pug\\mixins\\home\\landing\\Testimonial.pug"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\pug\\mixins\\navbars\\NavbarJadoo.pug",
+      "PackagePath": "staticwebassets\\src\\pug\\mixins\\navbars\\NavbarJadoo.pug"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\pug\\mixins\\sectionTitle\\SectionTitle.pug",
+      "PackagePath": "staticwebassets\\src\\pug\\mixins\\sectionTitle\\SectionTitle.pug"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\scss\\_bootstrap.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\_bootstrap.scss"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\scss\\_user-variables.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\_user-variables.scss"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\scss\\_user.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\_user.scss"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\scss\\theme.css",
+      "PackagePath": "staticwebassets\\src\\scss\\theme.css"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\scss\\theme.css.map",
+      "PackagePath": "staticwebassets\\src\\scss\\theme.css.map"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\scss\\theme.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\theme.scss"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\scss\\theme\\.gitkeep",
+      "PackagePath": "staticwebassets\\src\\scss\\theme\\.gitkeep"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\scss\\theme\\_badge.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\theme\\_badge.scss"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\scss\\theme\\_browser-support.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\theme\\_browser-support.scss"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\scss\\theme\\_button.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\theme\\_button.scss"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\scss\\theme\\_card.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\theme\\_card.scss"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\scss\\theme\\_form.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\theme\\_form.scss"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\scss\\theme\\_functions.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\theme\\_functions.scss"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\scss\\theme\\_helpers.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\theme\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\scss\\theme\\_heroHeader.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\theme\\_heroHeader.scss"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\scss\\theme\\_hover.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\theme\\_hover.scss"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\scss\\theme\\_icon.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\theme\\_icon.scss"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\scss\\theme\\_mixed.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\theme\\_mixed.scss"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\scss\\theme\\_mixins.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\theme\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\scss\\theme\\_nav-tab.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\theme\\_nav-tab.scss"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\scss\\theme\\_reboot.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\theme\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\scss\\theme\\_testimonial.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\theme\\_testimonial.scss"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\scss\\theme\\_theme.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\theme\\_theme.scss"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\scss\\theme\\_topnav.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\theme\\_topnav.scss"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\scss\\theme\\_utilities.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\theme\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\scss\\theme\\_variables.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\theme\\_variables.scss"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\scss\\theme\\helpers\\_background.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\theme\\helpers\\_background.scss"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\scss\\theme\\helpers\\_borders.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\theme\\helpers\\_borders.scss"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\scss\\theme\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\theme\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\scss\\theme\\helpers\\_flex.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\theme\\helpers\\_flex.scss"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\scss\\theme\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\theme\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\scss\\theme\\helpers\\_shadow.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\theme\\helpers\\_shadow.scss"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\src\\scss\\theme\\helpers\\_text.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\theme\\helpers\\_text.scss"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\vendors\\@popperjs\\popper.min.js",
+      "PackagePath": "staticwebassets\\vendors\\@popperjs\\popper.min.js"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\vendors\\bootstrap\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\vendors\\bootstrap\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\vendors\\fontawesome\\all.min.js",
+      "PackagePath": "staticwebassets\\vendors\\fontawesome\\all.min.js"
+    },
+    {
+      "Id": "C:\\CodingProjects\\C#\\WebUI\\WebUI\\wwwroot\\vendors\\is\\is.min.js",
+      "PackagePath": "staticwebassets\\vendors\\is\\is.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebUI.props",
+      "PackagePath": "build\\WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebUI.props",
+      "PackagePath": "buildMultiTargeting\\WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebUI.props",
+      "PackagePath": "buildTransitive\\WebUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
