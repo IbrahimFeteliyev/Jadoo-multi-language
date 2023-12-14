@@ -1,21 +1,30 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Business.Abstract;
+using DataAccess;
+using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using WebUI.Models;
+using WebUI.ViewModels;
 
 namespace WebUI.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly IServiceManager _manager;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(IServiceManager manager)
         {
-            _logger = logger;
+            _manager = manager;
         }
 
         public IActionResult Index()
         {
-            return View();
+            var langCode = Request.Cookies["Language"];
+            HomeVM vm = new()
+            { 
+               ServiceLanguages = _manager.GetAll(langCode),
+            };
+
+            return View(vm);
         }
 
         public IActionResult Privacy()

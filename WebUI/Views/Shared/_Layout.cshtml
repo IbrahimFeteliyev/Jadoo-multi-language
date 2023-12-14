@@ -23,6 +23,7 @@
     <link rel="manifest" href="assets/img/favicons/manifest.json">
     <meta name="msapplication-TileImage" content="assets/img/favicons/mstile-150x150.png">
     <meta name="theme-color" content="#ffffff">
+    @* <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-xrDm8WV0YZfO3ud6qoqGAeJ7tBwMp38r9IsDgAH4KtMuvy8BAYyRb16dU3g/oI1xDlbrq6L6XrvpdMKtL1s3Fsg==" crossorigin="anonymous" referrerpolicy="no-referrer" /> *@
 
 
     <!-- ===============================================-->
@@ -50,10 +51,12 @@
               <li class="nav-item px-3 px-xl-4"><a class="nav-link fw-medium" aria-current="page" href="#testimonial">Testimonial</a></li>
               <li class="nav-item px-3 px-xl-4"><a class="nav-link fw-medium" aria-current="page" href="#!">Login</a></li>
               <li class="nav-item px-3 px-xl-4"><a class="btn btn-outline-dark order-1 order-lg-0 fw-medium" href="#!">Sign Up</a></li>
-              <li class="nav-item dropdown px-3 px-lg-0"> <a class="d-inline-block ps-0 py-2 pe-3 text-decoration-none dropdown-toggle fw-medium" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">EN</a>
+                        <li class="nav-item dropdown px-3 px-lg-0">
+                            <a class="d-inline-block ps-0 py-2 pe-3 text-decoration-none dropdown-toggle fw-medium" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false"><i class="fas fa-globe"></i></a>
                 <ul class="dropdown-menu dropdown-menu-end border-0 shadow-lg" style="border-radius:0.3rem;" aria-labelledby="navbarDropdown">
-                  <li><a class="dropdown-item" href="#!">EN</a></li>
-                  <li><a class="dropdown-item" href="#!">BN</a></li>
+                  <li><a asp-controller="translate" asp-route-lang="AZ" class="dropdown-item">AZ</a></li>
+                  <li><a asp-controller="translate" asp-route-lang="EN" class="dropdown-item">EN</a></li>
+                  <li><a asp-controller="translate" asp-route-lang="RU" class="dropdown-item">RU</a></li>
                 </ul>
               </li>
             </ul>

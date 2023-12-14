@@ -1,0 +1,17 @@
+C:\CodingProjects\C#\Jadoo\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\CodingProjects\C#\Jadoo\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodingProjects\C#\Jadoo\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\CodingProjects\C#\Jadoo\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\CodingProjects\C#\Jadoo\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\CodingProjects\C#\Jadoo\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\CodingProjects\C#\Jadoo\DataAccess\bin\Debug\net7.0\DataAccess.runtimeconfig.json
+C:\CodingProjects\C#\Jadoo\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\CodingProjects\C#\Jadoo\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\CodingProjects\C#\Jadoo\DataAccess\bin\Debug\net7.0\Entities.dll
+C:\CodingProjects\C#\Jadoo\DataAccess\bin\Debug\net7.0\Entities.pdb
+C:\CodingProjects\C#\Jadoo\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+C:\CodingProjects\C#\Jadoo\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\CodingProjects\C#\Jadoo\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\CodingProjects\C#\Jadoo\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\CodingProjects\C#\Jadoo\DataAccess\obj\Debug\net7.0\DataAccess.genruntimeconfig.cache
+C:\CodingProjects\C#\Jadoo\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll

@@ -1,0 +1,11 @@
+C:\CodingProjects\C#\Jadoo\Core\bin\Debug\net7.0\Core.deps.json
+C:\CodingProjects\C#\Jadoo\Core\bin\Debug\net7.0\Core.dll
+C:\CodingProjects\C#\Jadoo\Core\bin\Debug\net7.0\Core.pdb
+C:\CodingProjects\C#\Jadoo\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodingProjects\C#\Jadoo\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\CodingProjects\C#\Jadoo\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\CodingProjects\C#\Jadoo\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\CodingProjects\C#\Jadoo\Core\obj\Debug\net7.0\Core.dll
+C:\CodingProjects\C#\Jadoo\Core\obj\Debug\net7.0\refint\Core.dll
+C:\CodingProjects\C#\Jadoo\Core\obj\Debug\net7.0\Core.pdb
+C:\CodingProjects\C#\Jadoo\Core\obj\Debug\net7.0\ref\Core.dll
